@@ -8,7 +8,7 @@
 
 | Content Mix | Growth Over Time |
 |:-----------:|:----------------:|
-| ![donut](https://i.imgur.com/placeholder1.png) | ![growth](https://i.imgur.com/placeholder2.png) |
+| ![donut](img/gêneros.png) | ![growth](img/crescimento .png) |
 
 > 💡 *Run the notebook to see all 6 interactive visualizations with Netflix's dark theme.*
 
